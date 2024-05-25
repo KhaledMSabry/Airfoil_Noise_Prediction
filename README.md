@@ -1,4 +1,4 @@
-# NASA Airfoil Self Noise: ML Pipeline
+# Airfoil Noise Prediction: ML Pipeline
 
 ## Overview
 
