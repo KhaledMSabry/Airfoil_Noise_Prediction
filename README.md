@@ -1,4 +1,4 @@
-# Airfoil Noise Prediction: ML Pipeline
+# Airfoil Noise Prediction with Spark ML
 
 ## Overview
 
